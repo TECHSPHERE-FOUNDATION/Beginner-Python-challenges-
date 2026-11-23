@@ -1,110 +1,77 @@
-# HOTEL BOOKING SYSTEM
+# TECHSPHERE – BEGINNER PYTHON CHALLENGES
 
-# Project Overview
+# About This Repository
 
-The Hotel Booking System is a simple Python project that allows customers to book hotel rooms and calculate the amount they need to pay based on their room category, number of nights, and breakfast selection.
+Welcome to the TECHSPHERE Beginner Python Challenges repository.
 
-The system also checks the customer's age and applies discounts where applicable.
+This repository is created for members of TECHSPHERE to practise Python programming through coding challenges and practical projects.
 
-# Project Requirements
+The aim is to help beginners apply what they have learned, improve their problem-solving skills and gain practical programming experience.
 
-1. Welcome the Customer
 
-- Display a welcome message.
-- Ask for the customer's full name.
-- Ask for the customer's age.
+# How to Participate
 
-2. Age Verification
+Follow these steps to submit your solution:
 
-- Customers must be at least 18 years old to book independently.
-- If the customer is below 18, display an appropriate message.
-- If the customer is 18 or older, allow them to continue.
+1. Fork the Repository
 
-3. Room Categories and Prices
+- Visit the TECHSPHERE Beginner Python Challenges repository.
+- Click the Fork button.
+- Select your GitHub account as the destination.
+- GitHub will create a copy of the repository under your account.
 
-Display the following room options:
+2. Work on the Challenge
 
-Room Category| Price Per Night
-Standard Room| ₦20,000
-Deluxe Room| ₦35,000
-Executive Room| ₦50,000
+- Open your forked repository.
+- Navigate to the "Challenges" folder.
+- Open the folder for the challenge you want to complete.
+- Read the challenge instructions carefully.
+- Create your solution using the required programming language.
+- Save your work in the appropriate challenge folder.
 
-4. Booking Details
+3. Commit Your Changes
 
-Ask the customer to provide:
+After adding your solution:
 
-- Their preferred room category.
-- The number of nights they want to stay.
-- Whether they want breakfast.
+- Commit your changes to your forked repository.
+- Give your commit a meaningful message describing what you have added.
 
-Breakfast costs ₦5,000 per night.
+4. Create a Pull Request
 
-5. Cost Calculation
+A pull request allows you to propose adding your changes to the original TECHSPHERE repository.
 
-Calculate:
+To create one:
 
-- Total room cost.
-- Breakfast cost, if selected.
-- Total cost before discounts.
+1. Open your forked repository on GitHub.
+2. Select Contribute or Pull requests.
+3. Choose Open pull request.
+4. Make sure the base repository is the original TECHSPHERE repository and the head repository is your fork.
+5. Add a suitable title and description.
+6. Submit your pull request.
 
-6. Discount System
+5. Review and Merge
 
-Apply the following discounts:
+- Your submission will be reviewed.
+- You may be asked to make corrections if necessary.
+- Once approved, your contribution can be merged into the original repository.
 
-- 7 nights or more: 10% discount.
-- Fewer than 7 nights: No 10% discount.
-- Executive Room with at least 5 nights: Additional 5% discount.
+# Contribution Guidelines
 
-7. Final Booking Summary
+- Complete challenges individually.
+- Do not copy another person's solution.
+- Follow the instructions and requirements provided for each challenge.
+- Keep your files properly organised.
+- Write clean and understandable code.
+- Be prepared to explain your implementation.
 
-Display a summary containing:
+# Important
 
-- Customer's full name.
-- Selected room category.
-- Number of nights.
-- Breakfast selection.
-- Total cost before discounts.
-- Discount received.
-- Final amount payable.
-
-# Python Concepts to Demonstrate
-
-This project should demonstrate the following concepts:
-
-- "print()" statements
-- Variables
-- Data types
-- User input using "input()"
-- Type conversion
-- Arithmetic operators
-- Comparison operators
-- Logical operators
-- Conditional statements ("if", "elif", "else")
-- Nested "if" statements
-- String formatting
-
-# Project Rules
-
-1. This is an individual project.
-2. Do not use loops.
-3. Do not use functions.
-4. Do not use lists or dictionaries.
-5. Do not copy another person's solution.
-6. Use only the Python concepts covered so far.
-7. Be prepared to explain your code.
-
-# Project Objective
-
-The goal of this project is to test your understanding of Python fundamentals and your ability to combine different concepts to solve a practical problem.
-
-Organization: TECHSPHERE
-
-Challenge: 001
-
-Language: Python
-
-Project: Hotel Booking System
+Only submit solutions that you have worked on yourself. The purpose of these challenges is to practise, learn and improve your programming skills.
 
 ---
 
-Learn. Build. Improve. Repeat.
+Organization: TECHSPHERE
+
+Repository: Beginner Python Challenges
+
+Primary Language: Python
